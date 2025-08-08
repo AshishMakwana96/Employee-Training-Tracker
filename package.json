@@ -1,0 +1,23 @@
+{
+  "name": "employee-training-tracker",
+  "version": "1.0.0",
+  "description": "This Laravel-based module allows Admins to create and assign training sessions to employees. Employees can view and complete their trainings. The system also sends email reminders for trainings due within 3 days using Laravel Queues.",
+  "main": "postcss.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshishMakwana96/Employee-Training-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshishMakwana96/Employee-Training-Tracker/issues"
+  },
+  "homepage": "https://github.com/AshishMakwana96/Employee-Training-Tracker#readme"
+}
